@@ -1,0 +1,10 @@
+/* selector: h2 */
+
+h3
+{
+  color: red; /* Property: color, value: red */
+}
+
+/* Anything inside the selector is the declaration. Example: "color: red" is the declaration */
+
+/*  "/* */"  are used for comments  */
